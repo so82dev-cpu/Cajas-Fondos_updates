@@ -1,6 +1,7 @@
 {
   "latestVersion": "1.0.1",
-  "jarUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/CajaChicaApp.jar",
+  "jarUrl": "https://drive.google.com/drive/u/0/folders/1JooX7DEhslcTdHJh8j6SdndYmV3W-8Uh/CajaChicaApp.jar",
   "dbUpdateUrl": "",
-  "releaseNotes": "Simbolos Moneda n/actualizador n/varios otros."
+  "manualUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/manual_usuario.pptx",
+  "releaseNotes": "- Corrección de errores en rendiciones.\n- Mejoras visuales."
 }
