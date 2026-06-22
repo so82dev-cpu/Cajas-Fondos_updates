@@ -3,5 +3,5 @@
   "jarUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/CajaChicaApp.jar",
   "dbUpdateUrl": "",
   "manualUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/manual_usuario.pptx",
-  "releaseNotes": "- Corrección Modulo Seguridad - Base de Datos.\n- Datasets."
+  "releaseNotes": "- Corrección Modulo Seguridad - Base de Datos.\n- Datasets.\n - Ahora no pregunta si quiere actualizar en la pantalla de inicio de sesión, es manualmente."
 }
