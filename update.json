@@ -3,5 +3,5 @@
   "jarUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/CajaChicaApp.jar",
   "dbUpdateUrl": "",
   "manualUrl": "https://raw.githubusercontent.com/so82dev-cpu/Cajas-Fondos_updates/main/manual_usuario.pptx",
-  "releaseNotes": "- Corrección de errores en rendiciones.\n- Mejoras visuales."
+  "releaseNotes": "- Corrección Modulo Seguridad - Base de Datos.\n- Datasets."
 }
